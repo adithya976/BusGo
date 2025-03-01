@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SJC Transportation</string>
+    <string name="User1Btn">Student</string>
+    <string name="User2Btn">Admin</string>
+    <string name="Welcome_string">Hello! Welcome to BT</string>
+    <string name="Select_route">Select Route</string>
+</resources>
