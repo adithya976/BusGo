@@ -1,2 +1,2 @@
 # BusGo
-Open 'java/com/example/com' to view the frontend and the backend files.
+Open 'java/com/example/sjc_demo' to view the frontend and the backend files.
